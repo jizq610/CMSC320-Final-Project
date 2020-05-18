@@ -347,7 +347,6 @@ Our analysis overall reflected that specific game platforms and specific genres 
 
 # VI. Resources 
 Our tutorial inspired by resources below:
-
 1. Hector's note on data science: https://www.hcbravo.org/IntroDataSci/bookdown-notes/
 2. Rstudio: https://rstudio.com/products/rstudio/
 3. tidyverse: https://www.tidyverse.org/
